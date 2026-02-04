@@ -1,5 +1,5 @@
 void main() {
-  int idade = 26;
+  var idade = 26;
   double nota = 5.7;
   String nome = "Toshi";
   bool? aprovado = true;
