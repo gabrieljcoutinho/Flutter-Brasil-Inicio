@@ -1,15 +1,6 @@
-// void main() {
-
-//   const String nome = 'Toshi Ossada';
-
-//   nome = print(nome);
-// }
-
 void main() {
-  final String nome2;
+  //cont e final ---- VAR
+  const String nome = 'Toshi Ossada';
 
-  nome = "Toshi Ossada";
-  nome2 = "TEste";
-
-  print(nome2);
+  print(nome);
 }
