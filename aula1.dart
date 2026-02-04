@@ -7,5 +7,5 @@ void main() {
   print(idade);
   print(nome);
   print(nota);
-  print(aprovado);
+  print(aprovado ?? false);
 }
