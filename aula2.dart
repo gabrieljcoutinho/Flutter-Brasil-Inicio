@@ -5,15 +5,11 @@
 //   nome = print(nome);
 // }
 
+void main() {
+  final String nome2;
 
+  nome = "Toshi Ossada";
+  nome2 = "TEste";
 
-
-
-// void main() {
-
-//   final String nome;
-
-//   nome = "Toshi Ossada";
-
-//   print(nome);
-// }
+  print(nome2);
+}
