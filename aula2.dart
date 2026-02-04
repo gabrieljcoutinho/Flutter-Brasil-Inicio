@@ -3,5 +3,5 @@ void main() {
 
   var nome = "Toshi Ossafa";
 
-  print(nome)
+  print(nome);
 }
