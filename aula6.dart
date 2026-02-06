@@ -7,6 +7,6 @@ void main() {
   print('Digite o nome');
   nome = stdin.readLineSync(encoding: utf8) ?? '';
   print('Digite a idade');
-  idade = stdin.readLineSync(encoding: utf8) ?? '0';
+  idade = int.parse(stdin.readLineSync(encoding: utf8) ?? '0');
   print(nome);
 }
