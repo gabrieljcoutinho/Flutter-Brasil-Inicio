@@ -1,6 +1,11 @@
 void main() {
-  //cont e final ---- VAR
-  const String nome = 'Toshi Ossada';
+  var idade = 26;
+  double nota = 5.7;
+  String nome = "Toshi";
+  bool? aprovado = true;
 
-t  print(nome);
+  print(idade);
+  print(nome);
+  print(nota);
+  print(aprovado);
 }
