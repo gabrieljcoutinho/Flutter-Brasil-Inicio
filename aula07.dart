@@ -32,4 +32,10 @@ void main() {
     case 7:
       diaDaSemana = "Sabado";
   }
+
+  if (diaDaSemana.isEmpty) {
+    print('Dia inválido');
+  } else {
+    print('Olá, hoje é $diaDaSemana');
+  }
 }
