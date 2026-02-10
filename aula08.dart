@@ -3,11 +3,10 @@ import 'dart:io';
 
 //Estrutura de repetição
 void main() {
+  var i = 0;
 
-var i = 0;
-
-while(i<){
-      print('Helo');
-}
-
+  while (i < 10) {
+    print('Helo');
+    i++;
+  }
 }
